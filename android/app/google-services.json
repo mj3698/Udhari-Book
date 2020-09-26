@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12231887196",
+    "firebase_url": "https://udhari-book.firebaseio.com",
+    "project_id": "udhari-book",
+    "storage_bucket": "udhari-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12231887196:android:6296f910319e00e3249999",
+        "android_client_info": {
+          "package_name": "com.udharibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12231887196-h54ulu0rne66pfn1neu0stdfnjm933up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udharibook",
+            "certificate_hash": "7a1296ffe358e42ad5069db36afc82cbb6006113"
+          }
+        },
+        {
+          "client_id": "12231887196-7dacksmggl08ggqrrn8bj6sh0ncrghbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARhSkvQfFHL2gku0mh5TviUtAes2kejtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12231887196-7dacksmggl08ggqrrn8bj6sh0ncrghbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
